@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parslie&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parslie&count_private=false&exclude_repo=liu-game-jam&layout=compact&border_radius=4&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
